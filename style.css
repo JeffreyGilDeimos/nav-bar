@@ -96,12 +96,12 @@ h3 {
 .logo {
     border: 3px solid white;
     border-radius: 30px;
-    height: 60px;
-    width: 60px;
+    height: 55px;
+    width: 55px;
 }
 p.logoimg {
     padding-left: 10px;
-    font-size: 50px;
+    font-size: 45px;
     font-weight: bolder;   
 }
 img {
@@ -120,7 +120,8 @@ a:hover {
     color: orange;
 }
 img.fb-ins {
-    margin-left: 2px;
-    height: 20px;
-    width: 20px;
+    margin-left: 4px;
+    margin-top: 4px;
+    height: 15px;
+    width: 15px;
 }
