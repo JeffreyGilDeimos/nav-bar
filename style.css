@@ -71,7 +71,7 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer; 
-    margin: 3px 5px;   
+    margin: 3px 8px;   
 }
 ul.search-item li {
     display: inline-block;
