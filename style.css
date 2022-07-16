@@ -5,15 +5,11 @@
     color: white;
     text-decoration: none;    
 }
-div {
-    /* border: 1px solid black; */
-}
 .nav-header {   
     background: #FF6600;
     height: 130px;
 }
 .nav-container {
-    /* height: 120px; */
     margin: 0px auto 0px auto;
     padding-top: 5px;
     width: 80%;    
@@ -48,7 +44,6 @@ li {
     margin-right: auto;
     border-radius: 4px;
 }
-
 .search-container {    
     height: 49px;
     width: 70%;
@@ -68,7 +63,6 @@ input[type=text] {
     border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
-    /* margin-left: 10px; */
     color: rgb(95, 89, 89);
 }
 input[type=submit] {
