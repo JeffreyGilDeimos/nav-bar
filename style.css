@@ -41,7 +41,7 @@ li {
 }
 .search-bgcolor {
     background: white;
-    height: 40px;
+    height: 39px;
     width: 98%;
     margin-left: auto;
     margin-right: auto;
@@ -62,7 +62,7 @@ li {
 }
 input[type=text] {
     width: 100%;
-    padding: 12px;
+    padding: 11px;
     border: 1px solid #ccc;
     border-radius: 4px;
     resize: vertical;
@@ -70,11 +70,11 @@ input[type=text] {
 }
 input[type=submit] {
     background-color: #FF6600;
-    padding: 10px 30px;
+    padding: 11px 37px;
     border: none;
     border-radius: 4px;
     cursor: pointer; 
-    margin: 3px 8px;   
+    margin: 1px 1px;   
 }
 ul.search-item li {
     display: inline-block;
